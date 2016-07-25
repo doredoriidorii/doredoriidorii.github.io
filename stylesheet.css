@@ -1,6 +1,9 @@
 body{
     background-image:url(http://constantine.typepad.com/.a/6a0120a7fc3be9970b01bb08d49380970d-pi);
 }
+h1{
+    font-size:50px;color:blue;text-align:center;background-color:#1a1a1a;
+}
 h2{
     margin:25px;
     font-family:cursive;
@@ -15,4 +18,16 @@ color:white;
 p{
     margin-top:70px;
     text-align:center;
+}
+ul{
+    margin:-15px;
+}
+#first{
+    margin:-18px;
+}
+#F1{
+    color:white;Text-align:center;margin-top:70px;text-decoration:underline;
+}
+P1{
+    text-align:center;font-size:18px;margin-top:-30px
 }
